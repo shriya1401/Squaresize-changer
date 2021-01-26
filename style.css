@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right top, #f699de, #f19ae2, #ec9be6, #e69cea, #e09dee, #cbaaf9, #b7b5ff, #a6beff, #8dd0ff, #7ee0ff, #80eeff, #94faf4);
+    font-family: 'Potta One', cursive;
+}
+
+.heading{
+width: 100%;
+font-size:30px;
+background-image: linear-gradient(to right top, #d965ee, #8799ff, #00bcff, #00d3ff, #3fe4f0);
+color: white;
+margin:0px;
+box-shadow: 10px 10px 20px hotpink ;
+}
+
+
+#note{
+font-size: 20px;
+color:white;
+
+
+}
+
+
+#copy_right{
+    position: fixed;
+    bottom:0px;
+    width:100%;
+    background-image: linear-gradient(to right top, #c693ed, #ca88f0, #ce7cf1, #d46ff2, #da5ff1);
+    color:blue;
+    text-align: center;
+    line-height:3;
+    font-size:20px
+
+}
+
+canvas{
+    border-color: white;
+    border-width: 10px;
+    box-shadow: 10px 10px 20px pink;
+    border-style: solid;
+    border-radius: 20px;
+}
